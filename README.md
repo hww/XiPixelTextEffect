@@ -7,6 +7,6 @@
 [![semantic-release: angular](https://img.shields.io/badge/semantic--release-angular-e10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
 
 
-A simple classic arcade games effect with the text by the particles
+A very simple visual effect in the style of classic arcade machines. It can be used for header screens or to show the progress score, or even as a count down counter.
 
 ![Demo Video](/Docs/demo-video.gif)
