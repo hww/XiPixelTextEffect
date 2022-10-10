@@ -1,9 +1,9 @@
 {
   "name": "com.hww.xipixeltexteffect",
-  "displayName": "XiTextPixelEffect",
+  "displayName": "XiPixelTextEffect",
   "version": "1.0.1",
   "unity": "2021.1",
-  "description": XiTextPixelEffect is simple text effect for unity Unity 3D.",
+  "description": "XiPixelTextEffect is simple text effect for unity Unity 3D.",
   "license": "MIT",
   "author": "hww <valery.hww@gmail.com> (https://github.com/hww)",
   "keywords": [
@@ -22,6 +22,6 @@
   "samples": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/hww/XiTextPixelEffect.git#upm"
+    "url": "https://github.com/hww/XiPixelTextEffect.git#upm"
   }
 }
