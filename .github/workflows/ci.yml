@@ -9,7 +9,7 @@ jobs:
     name: ⚙ Release
     runs-on: ubuntu-latest
     env:
-      PROJECT_NAME: XiTextPixelEffect
+      PROJECT_NAME: XiPixelTextEffect
       PROJECT_ASSETS: README.md:CHANGELOG.md:LICENSE
     steps:
     - uses: actions/checkout@v2
