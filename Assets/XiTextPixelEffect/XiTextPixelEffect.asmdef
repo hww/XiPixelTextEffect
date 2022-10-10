@@ -1,0 +1,20 @@
+{
+    "name": "XiPixelText",
+    "rootNamespace": "XiPixelText",
+    "references": [
+        "GUID:20b5fb66216b0de408c034afdc4f3a99",
+        "GUID:776d03a35f1b52c4a9aed9f56d7b4229",
+        "GUID:f88fb04354076c646a4107a491394033",
+        "GUID:fe20684845a8c79438ceca7b7de8623d",
+        "GUID:c6b10d72b72bcef47b30e2d2e9b3c549"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
