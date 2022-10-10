@@ -1,7 +1,7 @@
 {
   "name": "com.hww.xipixeltexteffect",
   "displayName": "XiPixelTextEffect",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "unity": "2021.1",
   "description": "XiPixelTextEffect is simple text effect for unity Unity 3D.",
   "license": "MIT",
