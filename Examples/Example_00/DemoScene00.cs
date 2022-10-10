@@ -9,7 +9,7 @@ namespace XiPixelText
     {
         public PixelText[] pixelTexts;
 
-        static string[] pixelStrings = new string[] { "CLASSIC", "ACADE", "EFFECT", "XiPixelText" };
+        static string[] pixelStrings = new string[] { "CLASSIC", "ARCADE", "EFFECT" };
 
         // Start is called before the first frame update
         void OnEnable()
